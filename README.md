@@ -7,11 +7,11 @@ The projects cover multiple domains, including predictive analytics, computer vi
 ________________________________________
 
 # Tools 
-Programming Language
+Programming Language:
 Python
 
-Libraries and Frameworks
+Libraries and Frameworks:
 pandas, numpy, scikit learn, matplotlib, seaborn, TensorFlow and Keras, PyTorch
 
-Typical Workflow
+Typical Workflow:
 Exploratory data analysis, data preprocessing, model building, model evaluation, and business or research insights
