@@ -6,7 +6,7 @@ The projects cover multiple domains, including predictive analytics, computer vi
 
 ________________________________________
 
-# Tools 
+# ⛓️‍💥 Tools 
 Programming Language:
 Python
 
