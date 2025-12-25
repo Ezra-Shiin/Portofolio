@@ -19,3 +19,4 @@ Tools and Techniques
 Python
 pandas, numpy, scikit learn, matplotlib, seaborn
 Exploratory data analysis, data preprocessing, supervised learning, model evaluation
+
