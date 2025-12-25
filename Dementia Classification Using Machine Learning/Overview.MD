@@ -10,9 +10,10 @@ Model performance is evaluated using standard classification metrics. The Gradie
 
 This project demonstrates how machine learning can be applied to medical and clinical datasets to support dementia classification. The findings suggest that advanced ensemble models can provide meaningful improvements over traditional baseline approaches, reinforcing the potential of data driven methods in healthcare related decision support.
 
-Tools and Techniques
+Tools and Techniques includes
 Python
 pandas, numpy, scikit learn, matplotlib, seaborn
 Exploratory data analysis, data preprocessing, supervised learning, model evaluation
+
 
 
