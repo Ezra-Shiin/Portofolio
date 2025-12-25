@@ -18,8 +18,8 @@ Exploratory data analysis, data preprocessing, model building, model evaluation,
 
 ________________________________________
 
-Thank you for taking the time to explore my portfolio.
+*Thank you for taking the time to explore my portfolio.
 I hope these projects provide a clear overview of my skills and interests in data science, machine learning, and deep learning.
 
 You can connect with me on
-[LinkedIn](https://www.linkedin.com/in/ezra-nathanael-527605385/) here.
+[LinkedIn](https://www.linkedin.com/in/ezra-nathanael-527605385/) here.*
