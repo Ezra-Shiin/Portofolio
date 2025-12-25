@@ -1,5 +1,7 @@
 # Data Science, Machine Learning, Deep Learning, and Text Mining Portfolio
-Welcome to my GitHub portfolio!
-This repository presents a curated collection of projects in Data Science, Machine Learning, and Deep Learning, highlighting my ability to design and implement end-to-end data-driven solutions—from data exploration and preprocessing to model development, evaluation, and interpretation of results.
+Welcome to my GitHub portfolio.
+This repository contains a selected collection of projects in Data Science, Machine Learning, and Deep Learning. These projects demonstrate my ability to work on complete data workflows, starting from data exploration and preprocessing, continuing with model development and evaluation, and ending with meaningful insights.
 
-The projects span a variety of domains, including predictive analytics, computer vision, natural language processing, time-series analysis, and decision-support systems. Each project is documented with a dedicated README that explains the problem context, methodology, and key findings to support deeper understanding.
+The projects cover multiple domains, including predictive analytics, computer vision, natural language processing, time series analysis, and decision support systems.
+
+________________________________________
