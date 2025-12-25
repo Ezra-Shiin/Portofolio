@@ -15,3 +15,11 @@ pandas, numpy, scikit learn, matplotlib, seaborn, TensorFlow and Keras, PyTorch
 
 Typical Workflow:
 Exploratory data analysis, data preprocessing, model building, model evaluation, and business or research insights
+
+________________________________________
+
+Thank you for taking the time to explore my portfolio.
+I hope these projects provide a clear overview of my skills and interests in data science, machine learning, and deep learning.
+
+You can connect with me on LinkedIn here.
+[LinkedIn](https://www.linkedin.com/in/ezra-nathanael-527605385/)
