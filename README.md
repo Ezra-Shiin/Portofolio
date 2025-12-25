@@ -4,6 +4,6 @@ This repository contains a selected collection of projects in Data Science, Mach
 
 The projects cover multiple domains, including predictive analytics, computer vision, natural language processing, time series analysis, and decision support systems.
 
-________________________________________
+
 
 # Test
